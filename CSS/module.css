@@ -1,0 +1,22 @@
+nav {
+    background-color: slateblue;
+}
+
+header {
+    background-color: rgb(45, 212, 235);
+}
+
+section {
+    background-color: tomato;
+}
+section:first-child{
+    background-color: rgb(223, 200, 0);
+}
+
+article {
+    background-color: teal;
+}
+
+footer {
+    background-color: rgb(255, 123, 0);
+}

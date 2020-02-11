@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+    background-color: lightgray;
+    text-align: center;
+    /* overflow-x: hidden; */
+    
+}
+
+body {
+    max-width: 767px;
+}
+
